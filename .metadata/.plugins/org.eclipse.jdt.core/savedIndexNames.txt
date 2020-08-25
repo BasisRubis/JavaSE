@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/damdam/Desktop/JAVAJEE/Workspaces/01_Workspace_JavaSE/.metadata/.plugins/org.eclipse.jdt.core
+1681532260.index
+3246098685.index
+4122334993.index
+2460092104.index
