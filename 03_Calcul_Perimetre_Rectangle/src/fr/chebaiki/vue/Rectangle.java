@@ -12,8 +12,11 @@ public class Rectangle {
 		// 2. Recuperation des valeurs
 		Scanner lectureClavier = new Scanner(System.in);
 		System.out.println("La largeur : ");
+		
 		uneLargeur = lectureClavier.nextDouble();
+		
 		System.out.println("La longueur : ");
+		
 		uneLongueur = lectureClavier.nextDouble();
 		
 		// 3. Calcul du perimetre
@@ -21,7 +24,5 @@ public class Rectangle {
 		
 		// 4. Affichage du resultat
 		System.out.println("Le perimetre = " + lePerimetre);
-
 	}
-
 }

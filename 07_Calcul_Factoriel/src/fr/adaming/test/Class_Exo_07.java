@@ -8,7 +8,7 @@ final class Class_Exo_07 {
 		
 		/**************Boucle pour relancer le programme**************************/
 		int n = 0;
-		while(n==0) {
+		while(n == 0) {
 		
 		/**************Demander d'entrer un nombre*******************************/
 		

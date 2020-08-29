@@ -1,4 +1,4 @@
-package fr.adaming.bordeaux;
+package fr.chebaiki.vue;
 
 import java.util.Scanner;
 
@@ -37,7 +37,7 @@ public class ClassEq {
 				
 		if(delta<0){
 					
-		System.out.println("Il n'y a pas de solution réelle.");
+		System.out.println("Il n'y a pas de solution rï¿½elle.");
 					
 		}else if(delta==0) { 
 					
@@ -61,7 +61,7 @@ public class ClassEq {
 		case "nomane":
 			System.out.println("Bonjour NOMANE");
 		default :
-			System.out.println("Désolé, je ne te connais pas");
+			System.out.println("Dï¿½solï¿½, je ne te connais pas");
 			break;
 		
 		}//End Boucle
